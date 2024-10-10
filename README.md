@@ -40,4 +40,4 @@ Managing Posts and Comments
 3. Edit or delete posts as needed.
 
      Installation:
-. Clone the repository using Git: `git clone
+. Clone the repository using Git: `git clone(https://github.com/TehreemFatimaNasir/blog)
